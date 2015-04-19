@@ -1,0 +1,2 @@
+Escribir un numero: 
+Es impar
